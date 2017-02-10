@@ -24,6 +24,6 @@ Conclusion:-
 Suggestion:-
     Study about Category Theory for best understanding of Any Program Language.
     
-    https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
+    https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/ 
     
     
