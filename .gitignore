@@ -3,3 +3,6 @@
 *.ipr
 .gradle
 .idea
+*/target
+project/target/scala-2.10/
+project/target/streams/compile/incCompileSetup/
